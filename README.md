@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🔭 I’m currently working on ...
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/Microsoft SQL Server-2C2255?style=flat-square&logo=mssql&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/>&nbsp;
 
 
 ### 🌱 I’m currently learning ...
